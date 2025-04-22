@@ -46,7 +46,7 @@
 ## 参照スプレッドシート
 
 詳細な設定や使用例については、以下の参照スプレッドシートを確認してください：
-[参照スプレッドシート](https://docs.google.com/spreadsheets/d/1fb6X18d4CFX3PIjEclpYG_J0B3XMbAoTsJEST4AR-u8/copy)
+[参照スプレッドシート](https://docs.google.com/spreadsheets/d/1fb6X18d4CFX3PIjEclpYG_J0B3XMbAoTsJEST4AR-u8/edit?usp=sharing)
 
 ## ライセンス
 
