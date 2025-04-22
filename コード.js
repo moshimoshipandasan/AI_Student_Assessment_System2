@@ -3,9 +3,9 @@
 const apikey = PropertiesService.getScriptProperties().getProperty('apikey');
 // const gemini_model = 'gemini-1.5-pro'; //高品質
 const gemini_model1 = 'gemini-2.5-pro-exp-03-25'; //低速（高品質）
-const gemini_model2 = 'gemini-2.5-flash-preview-04-17'; //中速（安定）
+// const gemini_model2 = 'gemini-2.5-flash-preview-04-17'; //中速（安定）
 // const gemini_model2 = 'gemini-2.0-flash'; //高速（エラーが多く不安定）
-// const gemini_model2 = 'gemini-1.5-flash'; //高速（安定）
+const gemini_model2 = 'gemini-1.5-flash'; //高速（安定）
 const GEMINI_URL1 = `https://generativelanguage.googleapis.com/v1beta/models/${gemini_model1}:generateContent?key=${apikey}`;
 const GEMINI_URL2 = `https://generativelanguage.googleapis.com/v1beta/models/${gemini_model2}:generateContent?key=${apikey}`;
 
